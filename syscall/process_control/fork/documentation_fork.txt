@@ -1,0 +1,7 @@
+Esta e a chamada de sistema para criacao de processos, desenvolvi em linguagem C um programa que utiliza o comando fork, que printa nao so o processo mas tambem o diferencia se e um processo pai ou um processo filho.
+Primeiramente eu puxo as bibliotecas necessarias para execucao do codigo:
+stdio.h, uma biblioteca utilizada para o I/O do codigo, como por exemplo o perror().
+string.h, biblioteca usada para printar utilizando o buffer, como no exemplo do codigo.
+sys/types.h, usada para
+unistd.h, usada para
+stdlib.h, usada para

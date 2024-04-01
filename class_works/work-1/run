@@ -1,0 +1,3 @@
+gcc -Wall -c changing_state_process.c &&
+gcc -Wall -c creating_process.c &&
+gcc -o testprogram changing_state_process.o creating_process.o
